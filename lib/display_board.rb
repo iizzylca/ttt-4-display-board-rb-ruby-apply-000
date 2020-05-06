@@ -1,7 +1,5 @@
 board= [" "," "," "," "," "," "," "," "," "]
-board[0]= "O"
-board[1]= "O"
-board[2]= "O"
+
 def display_board(board)
 
 puts " #{board[0]} | #{board[1]} | #{board[2]} "
