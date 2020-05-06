@@ -1,5 +1,4 @@
 board= [" "," "," "," "," "," "," "," "," "]
-board[4]= "X"
 board[0]= "O"
 board[0]= "X"
 board[1]= "X"
